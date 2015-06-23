@@ -1,4 +1,4 @@
-FROM corvis/centos7:latest
+FROM logicify/centos7:latest
 
 # java8
 RUN cd /opt && \
